@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Abdelrhman Elsayed 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
-</p>
+<h3 align="center">
+Flutter Developer 📱 | Mobile Application Developer 🚀
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdoelsayed294&label=Profile%20Views&color=blue&style=flat">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
 
 ## 🚀 Tools I Use
@@ -65,10 +65,37 @@ class About extends Me {
 }
 ```
 
+## 🚀 Featured Projects
+
+- 🎟️ [EveTick](https://github.com/abdoelsayed294/EveTick)
+  
+  Event booking platform with a separate dashboard for event organizers to manage events and tickets, plus QR ticket scanning and attendee management.
+
+- 🚕 [Lady Passenger](https://github.com/KerollosMoheb/App_LadyPassenger_V2)
+
+  Ride-hailing application similar to Uber, designed exclusively for female drivers and female passengers.
+
+- 🔧 [Salla7ly](https://github.com/abdelrhamanadel4-Flutter/salla7ly_01)
+
+  Home services platform where users describe their problem and AI estimates its severity and expected cost, with the option to request a technician.
+
+- 🏥 [doc_doc](https://github.com/abdoelsayed294/doc_doc)
+
+  Clinic booking and healthcare management application.
+
+- 🤟 [LingoSign](https://github.com/nhahub/NHA-226)
+
+  AI-powered sign language translator with video calling and real-time text conversion.
+
+- 📹 [DocNow](https://github.com/elmohamdi/DocNow)
+
+  Medical booking platform with online video consultations.
+
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m  **Flutter Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>
 - 🎨 UI/UX Designer.
 - 🚀 Building awesome mobile apps.
+
 
 ## ⚡ Fun Fact
 
