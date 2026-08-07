@@ -8,6 +8,16 @@ Flutter Developer 📱 | Mobile Application Developer 🚀
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/abdelrahman-elsayed-58930224a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:ae229211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ## 🚀 Tools I Use
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -71,6 +81,7 @@ class About extends Me {
 - 🚀 Building awesome mobile apps.
 
 
+
 ## 🚀 Featured Projects
 
 ### 🎟️ EveTick
@@ -120,13 +131,6 @@ Medical booking platform with online video consultations.
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmohamdi/DocNow)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdoelsayed294&theme=tokyonight" />
-</p>
 
 
 ## 🌱 Currently Working On
@@ -140,12 +144,5 @@ Medical booking platform with online video consultations.
 
 Debugging takes longer than writing the code 😅
 
-
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrahman-elsayed-58930224a).
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](ae229211@gmail.com)
 
 
