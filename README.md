@@ -67,29 +67,52 @@ class About extends Me {
 
 ## 🚀 Featured Projects
 
-- 🎟️ [EveTick](https://github.com/abdoelsayed294/EveTick)
-  
-  Event booking platform with a separate dashboard for event organizers to manage events and tickets, plus QR ticket scanning and attendee management.
+### 🎟️ EveTick
 
-- 🚕 [Lady Passenger](https://github.com/KerollosMoheb/App_LadyPassenger_V2)
+Event booking platform with a dashboard for event organizers to manage events, tickets, and QR ticket scanning.
 
-  Ride-hailing application similar to Uber, designed exclusively for female drivers and female passengers.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdoelsayed294/EveTick)
 
-- 🔧 [Salla7ly](https://github.com/abdelrhamanadel4-Flutter/salla7ly_01)
+---
 
-  Home services platform where users describe their problem and AI estimates its severity and expected cost, with the option to request a technician.
+### 🚕 Lady Passenger
 
-- 🏥 [doc_doc](https://github.com/abdoelsayed294/doc_doc)
+Ride-hailing application similar to Uber, designed exclusively for female drivers and passengers.
 
-  Clinic booking and healthcare management application.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KerollosMoheb/App_LadyPassenger_V2)
 
-- 🤟 [LingoSign](https://github.com/nhahub/NHA-226)
+---
 
-  AI-powered sign language translator with video calling and real-time text conversion.
+### 🔧 Salla7ly
 
-- 📹 [DocNow](https://github.com/elmohamdi/DocNow)
+Home services platform where AI analyzes the problem, estimates the cost, and allows users to request technicians.
 
-  Medical booking platform with online video consultations.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelrhamanadel4-Flutter/salla7ly_01)
+
+---
+
+### 🏥 doc_doc
+
+Clinic booking and healthcare management application.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdoelsayed294/doc_doc)
+
+---
+
+### 🤟 LingoSign
+
+AI-powered sign language translator with real-time text conversion and video calls.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhahub/NHA-226)
+
+---
+
+### 📹 DocNow
+
+Medical booking platform with online video consultations.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmohamdi/DocNow)
+
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m  **Flutter Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>
