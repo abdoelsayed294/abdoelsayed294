@@ -1,9 +1,28 @@
-```dart
-// tools_I_use organized
+<h1 align="center">Hello Coders 👋</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat">
+</p>
+
+## 🚀 Tools I Use
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Bloc](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+```dart
 class About extends Me {
+
   const myTools = {
-    "ProgramingLanguages": {
+
+    "ProgrammingLanguages": {
       "Dart",
       "Java",
       "Python",
@@ -15,72 +34,33 @@ class About extends Me {
       "Firebase",
       "BLoC",
       "Cubit",
-      "REST APIs"
+      "REST API"
     },
 
     "Database": {
-      "Firebase Firestore",
+      "Firebase",
       "SQLite",
       "MySQL"
     },
 
-    "Architecture": {
-      "Clean Architecture",
-      "MVC"
-    },
-
-    "Editors": {
-      "VS Code",
-      "Android Studio",
-      "IntelliJ IDEA"
-    },
-
-    "Platforms": {
-      "Android",
-      "iOS",
-      "Windows"
-    },
-
-    "Design": {
-      "Figma",
-      "Photoshop"
-    },
-
-    "OtherTools": {
+    "Tools": {
       "Git",
       "GitHub",
-      "Postman"
+      "Figma",
+      "VS Code"
     }
   };
 }
 ```
 
-* 📱 I'm a **Flutter Developer** from Egypt.
+- 📱 Flutter Developer.
+- 🎓 Computer Science Student.
+- 🔥 Love Clean Architecture & Firebase.
+- 🎨 UI/UX Designer.
+- 🚀 Building awesome mobile apps.
 
-* 🎓 Computer Science student at **Alexandria University**.
+## 📊 Stats
 
-* 🌱 Currently learning **advanced Flutter** and **backend development**.
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-* 🔥 Interested in **Clean Architecture**, **BLoC**, and **Firebase**.
-
-* 🎨 I also work with **UI/UX Design** using Figma.
-
-* 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**.
-
-* 🚀 Projects: **LingoSign**, **DocNow**, **iClinic**, and more.
-
-* ⚡ Fun fact: I spend more time debugging than coding 😅.
-
-## 📫 Connect with me
-
-* GitHub: **github.com/your-username**
-* LinkedIn: **linkedin.com/in/your-profile**
-* Email: **[your-email@example.com](mailto:your-email@example.com)**
-
----
-
-### ⚙️ Code Cycle
-
-```text
-Code → Bug → Fix → New Bug → Stack Overflow → Coffee → Repeat 🔄
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
