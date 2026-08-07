@@ -65,6 +65,12 @@ class About extends Me {
 }
 ```
 
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m  **Flutter Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>
+- 🎨 UI/UX Designer.
+- 🚀 Building awesome mobile apps.
+
+
 ## 🚀 Featured Projects
 
 ### 🎟️ EveTick
@@ -114,17 +120,32 @@ Medical booking platform with online video consultations.
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmohamdi/DocNow)
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m  **Flutter Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>
-- 🎨 UI/UX Designer.
-- 🚀 Building awesome mobile apps.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdoelsayed294&theme=tokyonight" />
+</p>
+
+
+## 🌱 Currently Working On
+
+- Advanced Flutter Architecture
+- Performance Optimization
+- Open Source Projects
 
 
 ## ⚡ Fun Fact
 
 Debugging takes longer than writing the code 😅
 
+
+
 ## 📫 Contact Me
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/abdelrahman-elsayed-58930224a)
-- Gmail: ae229211@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrahman-elsayed-58930224a).
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](ae229211@gmail.com)
+
+
