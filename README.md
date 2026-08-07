@@ -1,4 +1,4 @@
-<h1 align="center">Hello Coders 👋</h1>
+<h1 align="center">Hello, I'm Abdelrhman Elsayed 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
@@ -37,12 +37,15 @@ class About extends Me {
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m  **Flutter Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>- 🔥 Love 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Clean Architecture**. <br>
 - 🎨 UI/UX Designer.
 - 🚀 Building awesome mobile apps.
 
-## 📊 Stats
+## ⚡ Fun Fact
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true&theme=radical)
+Debugging takes longer than writing the code 😅
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelsayed294&layout=compact&theme=radical)
+## 📫 Contact Me
+
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abdelrahman-elsayed-58930224a)
+- Gmail: ae229211@gmail.com
