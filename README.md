@@ -1,81 +1,86 @@
-# 👋 Hi, I'm Abdelrhman Elsayed
-
-### 📱 Flutter Developer | UI/UX Designer | Computer Science Student
-
-I'm a Flutter developer passionate about building scalable and modern mobile applications with clean architecture and beautiful user interfaces.
-
-## 🚀 Tech Stack
-
 ```dart
-class AboutMe {
-  const programmingLanguages = {
-    "Dart",
-    "Java",
-    "Python",
-    "C++"
-  };
+// tools_I_use organized
 
-  const frameworks = {
-    "Flutter",
-    "Firebase",
-    "REST APIs",
-    "BLoC",
-    "Cubit"
-  };
+class About extends Me {
+  const myTools = {
+    "ProgramingLanguages": {
+      "Dart",
+      "Java",
+      "Python",
+      "C++"
+    },
 
-  const databases = {
-    "Firebase Firestore",
-    "SQLite",
-    "MySQL"
-  };
+    "Frameworks": {
+      "Flutter",
+      "Firebase",
+      "BLoC",
+      "Cubit",
+      "REST APIs"
+    },
 
-  const tools = {
-    "Git",
-    "GitHub",
-    "Figma",
-    "VS Code",
-    "Android Studio"
-  };
+    "Database": {
+      "Firebase Firestore",
+      "SQLite",
+      "MySQL"
+    },
 
-  const architecture = {
-    "Clean Architecture",
-    "MVC",
-    "Responsive UI"
+    "Architecture": {
+      "Clean Architecture",
+      "MVC"
+    },
+
+    "Editors": {
+      "VS Code",
+      "Android Studio",
+      "IntelliJ IDEA"
+    },
+
+    "Platforms": {
+      "Android",
+      "iOS",
+      "Windows"
+    },
+
+    "Design": {
+      "Figma",
+      "Photoshop"
+    },
+
+    "OtherTools": {
+      "Git",
+      "GitHub",
+      "Postman"
+    }
   };
 }
 ```
 
-## 🎓 About Me
+* 📱 I'm a **Flutter Developer** from Egypt.
 
-* 📚 Third-year Computer Science student at Alexandria University.
-* 📱 Flutter Developer with experience in building real-world applications.
-* 🎨 UI/UX Designer.
-* 🔥 Passionate about mobile development and problem solving.
-* 🌱 Currently learning advanced Flutter concepts and backend technologies.
+* 🎓 Computer Science student at **Alexandria University**.
 
-## 🛠️ Projects
+* 🌱 Currently learning **advanced Flutter** and **backend development**.
 
-* 🚕 Lady Passenger
-* 🏥 DocNow
-* 🏪 Skeleton Store Management System
-* 🤟 LingoSign
-* 🩺 iClinic
+* 🔥 Interested in **Clean Architecture**, **BLoC**, and **Firebase**.
 
-## 💬 Ask me about
+* 🎨 I also work with **UI/UX Design** using Figma.
 
-* Flutter
-* Firebase
-* Clean Architecture
-* BLoC & Cubit
-* UI/UX Design
-* APIs
+* 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**.
 
-## 📫 Contact Me
+* 🚀 Projects: **LingoSign**, **DocNow**, **iClinic**, and more.
 
-* GitHub: github.com/your-username
-* LinkedIn: linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* ⚡ Fun fact: I spend more time debugging than coding 😅.
 
-## ⚡ Fun Fact
+## 📫 Connect with me
 
-I spend more time fixing bugs than writing code 😅.
+* GitHub: **github.com/your-username**
+* LinkedIn: **linkedin.com/in/your-profile**
+* Email: **[your-email@example.com](mailto:your-email@example.com)**
+
+---
+
+### ⚙️ Code Cycle
+
+```text
+Code → Bug → Fix → New Bug → Stack Overflow → Coffee → Repeat 🔄
+```
