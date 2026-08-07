@@ -43,10 +43,6 @@ class About extends Me {
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelsayed294&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelsayed294&layout=compact&theme=radical)
