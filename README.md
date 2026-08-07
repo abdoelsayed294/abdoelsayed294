@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdoelsayed294&label=Profile%20Views&color=blue &style=flat">
+  <img src="https://komarev.com/ghpvc/?username=abdoelsayed294&label=Profile%20Views&color=blue&style=flat">
 </p>
 
 ## 🚀 Tools I Use
@@ -43,6 +43,6 @@ class About extends Me {
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=abdoelsayed294&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelsayed294&layout=compact)
